@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a high school student in Beijing, China.
+Love CS, robotics and engineering!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiYifei1218)](https://github.com/LiYifei1218/github-readme-stats)
 
