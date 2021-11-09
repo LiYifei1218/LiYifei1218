@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a high school student in Beijing, China.
+I'm a college freshman student in WashU St. Louis.
 Love CS, robotics and engineering!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiYifei1218)
