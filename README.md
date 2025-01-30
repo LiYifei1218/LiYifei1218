@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a college freshman student in WashU St. Louis.
+I'm a undergrad student in WashU St. Louis.
 Love CS, robotics and engineering!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiYifei1218)
