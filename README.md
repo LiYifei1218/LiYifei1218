@@ -2,10 +2,10 @@
 
 I'm a undergrad student in WashU St. Louis.
 Love CS, robotics and engineering!
-
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiYifei1218)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiYifei1218&hide=php,shell,powershell,css)
-
+-->
 
 <!--
 **LiYifei1218/LiYifei1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
